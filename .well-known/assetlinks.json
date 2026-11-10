@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.oneforai425.agentworkbench",
+      "sha256_cert_fingerprints": [
+        "A3:51:EE:B8:4E:0E:75:A1:94:BB:7D:F6:DA:DA:3C:D0:43:B8:F2:3A:F1:14:0B:BA:11:6F:A9:57:0C:E7:79:E0"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.oneforai425.agentworkbench.standalone",
+      "sha256_cert_fingerprints": [
+        "A3:51:EE:B8:4E:0E:75:A1:94:BB:7D:F6:DA:DA:3C:D0:43:B8:F2:3A:F1:14:0B:BA:11:6F:A9:57:0C:E7:79:E0"
+      ]
+    }
+  }
+]
